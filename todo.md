@@ -6,5 +6,5 @@ Kanban Board
     - QtWidgets
     - QML, including Android, iOS and Linux.
     - WebUI on server
-- Backlog(light-red), Work-In-Progress(WIP - light-yellow), Review (light-green) and Done(light-gray) panels.
+- Evaluation(light-gray), Backlog(light-red), Work-In-Progress(WIP - light-yellow), Review (light-green) and Done(dark-gray) panels.
 - 
